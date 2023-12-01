@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Yufei Wu. I am a PhD student at the Max Plack Institute for Chemical Energy Conversion and RWTH Aachen University. 
 - 👀 I use solid-state NMR to study catalytic process in hydrogenation reactions. 
-- 🌱 My name Yufei Wu is pronunced as [jyfeiwu]. The only thing to notice is the “yu” in “Yufei”, which is pronunced as the close front rounded vowel [y], same as the letter “ü” in German or “u” in French.
+- 🌱 My name Yufei Wu is pronunced as [yfeiwu]. The only thing to notice is the “yu” in “Yufei”, which is pronunced as the close front rounded vowel [y], same as the letter “ü” in German or “u” in French.
 - 💞️ My profile photo (bird flying in pink-blue sky) is a gift from my special friend Chuchu. The image of bird came from part of my name which has the meaning “flying” in Chinese. Surrounding of the bird is decorated by the elegant Fermi’s golden rule. 
 - 📫 If you have any questions, please do not hesitate to contact me [by email](mailto:yufei.wu@itmc.rwth-aachen.de). 
